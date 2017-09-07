@@ -24,6 +24,7 @@ Format: ![HERE!](url)
 - Sklearn
 - Jinja
 - cPickle
+- PyMongo
 
 
 ## Feature Picked up & its importance
