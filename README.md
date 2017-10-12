@@ -23,7 +23,7 @@ Team:+1::+1::+1:: Alexandra Magana Noronha:cake:, Margaret Ng:icecream:, Christo
 ## Diagram of all pieces + connections
 ![App Architecture](https://github.com/csankat92/event-fraud-detection/blob/master/images/fraud_detection.png)
 
-## Feature Picked up & its importance :rainbow::rainbow::rainbow::rainbow::rainbow::rainbow:
+## Feature Picked up & its importance :rainbow::rainbow:
 
 
 Features Picked | Description |Feature Importance
@@ -52,6 +52,18 @@ GradientBoostingClassifier(criterion='friedman_mse', init=None,
                n_estimators=100, presort='auto', random_state=None,
                subsample=1.0, verbose=0, warm_start=False)
 ```
+
+## Web-Application Instructions
+
+1. Enter http://52.89.86.85:5000/ into your web browser. You will be prompted to the screen below. 
+
+![App Architecture](https://github.com/margaretnym/event-fraud-detection/blob/master/images/Screen%20Shot%202017-09-07%20at%204.17.48%20PM.png)
+
+2. Enter username and password to access the Fraud Application. 
+
+3. Conduct Investigation. 
+
+![App Architecture](https://github.com/margaretnym/event-fraud-detection/blob/master/images/Screen%20Shot%202017-09-07%20at%204.10.02%20PM.png)
 
 ## Special Thanks
 
