@@ -20,8 +20,11 @@ Team:+1::+1::+1:: Alexandra Magana Noronha:cake:, Margaret Ng:icecream:, Christo
 - pymongo
 - flask
 
+## Diagram of all pieces + connections
+![App Architecture](https://github.com/csankat92/event-fraud-detection/blob/master/images/fraud_detection.png)
 
-## Feature Picked up & its importance
+## Feature Picked up & its importance :rainbow::rainbow::rainbow::rainbow::rainbow::rainbow:
+
 
 Features Picked | Description |Feature Importance
 ------------ | ------------- | -------------
