@@ -105,6 +105,3 @@ if __name__ == '__main__':
     best_model, score, recall, precision = score_best_models(X,y)
     with open('files/model.pkl', 'wb') as f:
         pickle.dump(best_model, f)
-
-
-
