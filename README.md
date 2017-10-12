@@ -1,22 +1,15 @@
 # Event Fraud Detection Case Study
 
-A machine learning web application :rainbow: to predict fraud events on realtime data streams. Compared the performance of Logistic Regression, Random Forest and GradientBoasting Classifier Algorithms by fine tuning the model to have the highest score accuracy. GradientBoasting Classifier made up the final model with score 93% and precision 
+A machine learning web application to predict fraud events on realtime data streams. Compared the performance of Logistic Regression, Random Forest and GradientBoasting Classifier Algorithms by fine tuning the model to have the highest score accuracy. GradientBoasting Classifier made up the final model with a score .93 and precision .56.
 
-Due to confidentiality, the training data is not made public. The python code is made available in the src file. The model is also available as a pickle file.
+Due to confidentiality, the training data is not made public. The python code is made available in the app file. The model is also available as a pickle file.
 
 Team:+1::+1::+1:: Alexandra Magana Noronha:cake:, Margaret Ng:icecream:, Christopher Sankat:pizza:
-
-## Files Desciption
-- model_building.py - Set up training data and compares the performance of models and stores the best model in pickle format
-- predit.py
-
-## Diagram of all pieces + connections
-![GitHub Logo](/images/logo.png)
-Format: ![HERE!](url)
 
 ## Main Infrastructure
 - MongoDB
 - Flask
+- AWS - EC2
 
 ## Library Used
 - Numpy
@@ -24,7 +17,8 @@ Format: ![HERE!](url)
 - Sklearn
 - Jinja
 - cPickle
-- PyMongo
+- pymongo
+- flask
 
 
 ## Feature Picked up & its importance
