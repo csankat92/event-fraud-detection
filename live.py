@@ -69,6 +69,7 @@ def run_all():
             data_table.insert_one(new_data)
 
 
+
 if __name__ == "__main__":
     os.system('python fraud_flask.py &')
     run_all()
